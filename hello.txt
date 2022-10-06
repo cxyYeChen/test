@@ -15,3 +15,4 @@ hello YeChen! hello git!
 hello YeChen! hello git! master test
 hello YeChen! hello git!
 hello YeChen! hello git! hot-fix test
+我要测试克隆clone
